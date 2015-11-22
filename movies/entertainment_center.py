@@ -33,4 +33,4 @@ trainwreck = media.Movie("Trainwreck",
 						"https://www.youtube.com/watch?v=lrwsY2JxWM8")
 movies = [toy_story, avatar, princess_bride, mission_impossible, fantastic_four, trainwreck]
 
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
